@@ -1,4 +1,4 @@
-# Solar Power Plant Timeseries Analysis
+# Japanese Oak Wilt Mortality Analysis
 
 
 ## About the Dataset
